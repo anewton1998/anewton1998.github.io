@@ -41,7 +41,8 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: $brand-color;
+        //color: $text-color;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the last one
@@ -220,6 +221,10 @@
     @include media-query($on-laptop) {
         font-size: 36px;
     }
+}
+
+.post-banner-image {
+  margin-bottom: 20px;
 }
 
 .post-content {

@@ -7,6 +7,12 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
 
+  {% if page.banner_image %}
+    <div class="post-banner">
+      <img class="post-banner-image" src="{{page.banner_image}}"/>
+    </div>
+  {% endif %}
+
   <div class="post-content">
     {{ content }}
   </div>
