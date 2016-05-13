@@ -4,6 +4,7 @@ title:  "Big Changes for JCR in the Works"
 date:   2016-05-12 16:22:06 -0400
 categories: JSON JCR
 published: true
+comments: true
 ---
 We published [JCR -06](https://tools.ietf.org/html/draft-newton-json-content-rules-06) back in
 March and since we've received a lot of feedback. And that feedback has resulted

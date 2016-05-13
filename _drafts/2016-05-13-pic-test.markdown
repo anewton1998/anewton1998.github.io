@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "A picture test"
+date:   2016-05-13 15:38:06 -0500
+categories: jekyll update
+comments: true
+---
+<a href="https://anewton.smugmug.com/Auckland-2016/i-npRTQVV/A"><img src="https://photos.smugmug.com/Auckland-2016/i-npRTQVV/0/L/DSC08765-L.jpg" alt=""></a>
