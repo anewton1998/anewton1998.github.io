@@ -8,8 +8,9 @@
 # Site settings
 title: morethanabitoff
 email: andy@hxr.us
-description: > # this means to ignore newlines until "baseurl:"
-  Andrew ("Andy") Newton. Technology, the Internet, Programming,
+description: >
+  I'm a computer geek with too little patience, not enough time, and too few guns.
+  Andrew (Andy) Newton. the Internet, Programming,
   and Open Source.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.hxr.us" # the base hostname & protocol for your site
