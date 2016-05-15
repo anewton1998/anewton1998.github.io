@@ -6,7 +6,8 @@ categories: JSON JCR
 published: true
 comments: true
 ---
-<a href="https://anewton.smugmug.com/SF-Aerial-Tour/i-TLz3B2h/A"><img src="https://photos.smugmug.com/SF-Aerial-Tour/i-TLz3B2h/0/Ti/DSC06404-Ti.jpg" alt=""></a>
+<a href="https://anewton.smugmug.com/Auckland-2016/i-svxZXc7/A"><img src="https://photos.smugmug.com/Auckland-2016/i-svxZXc7/0/Ti/DSC08679-Ti.jpg" class="img-inline-left" alt=""></a>
+
 We published [JCR -06](https://tools.ietf.org/html/draft-newton-json-content-rules-06) back in
 March and since we've received a lot of feedback. And that feedback has resulted
 in some fairly significant, and unfortunately backwards incompatible, syntax changes -- all for the better.
@@ -17,7 +18,7 @@ JCR. To some extent this was true with -06, but things like this were not:
 {% highlight json %}
 [ "a", [ 1, 2, 3 ], "b" ]
 {% endhighlight %}
-
+<!--more-->
 Well, now it is (or at least will be in -07). But in doing this, we've had to
 move the repetition syntax to the end of the definitions.  Whereas we use to do this:
 

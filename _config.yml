@@ -19,6 +19,7 @@ github_username:  anewton1998
 timezone: America/New_York
 
 # Build settings
+excerpt_separator: <!--more-->
 markdown: kramdown
 kramdown:
   input: GFM
