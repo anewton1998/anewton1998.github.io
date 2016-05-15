@@ -6,6 +6,7 @@ categories: JSON JCR
 published: true
 comments: true
 ---
+<a href="https://anewton.smugmug.com/SF-Aerial-Tour/i-TLz3B2h/A"><img src="https://photos.smugmug.com/SF-Aerial-Tour/i-TLz3B2h/0/Ti/DSC06404-Ti.jpg" alt=""></a>
 We published [JCR -06](https://tools.ietf.org/html/draft-newton-json-content-rules-06) back in
 March and since we've received a lot of feedback. And that feedback has resulted
 in some fairly significant, and unfortunately backwards incompatible, syntax changes -- all for the better.

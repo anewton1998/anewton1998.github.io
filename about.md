@@ -2,7 +2,6 @@
 layout: about
 title: About
 permalink: /about/
-custom_css: about
 ---
 
 Welcome to **_morethanabitoff_**. (That's "More Than A Bit Off") My name is Andrew Newton, but my friends, my family,
