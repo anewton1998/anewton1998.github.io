@@ -1,18 +1,18 @@
 ---
 layout: post
 title:  "Java will be the New COBOL"
-date:   2016-05-22 08:20:06 -0400
+date:   2016-05-25 05:20:06 -0400
 categories: Java
 comments: true
-published: false
+published: true
 ---
 <img src="/img/posts/coffee-shop-1045065_1920.jpg" class="img-inline-left" alt="Pair programming anybody?">
-We all can continue to debate this, but Java will be the new COBOL.
+We can continue to debate this, but Java will be the new COBOL.
 
 The "Java is the new COBOL" debate has been going on for about 10 years now.
 And it's not just theoretical. There are companies catering to what they sense
-is a shifting mindset in the enterprise programming world -- a mindset that
-many of us would probably find unfamiliar.
+is a shifting mindset in the enterprise programming world -- a mindset that starts with a premise
+many of us would probably find unfamiliar: its time to switch from COBOL to Java.
 
 If you want to know what I'm talking about, do a Google search for ["Java for COBOL programmers"](http://lmgtfy.com/?q=Java+for+COBOL+programmers).
 You'll find lot's of resources for the COBOL programmer to learn Java. That highlights
@@ -24,7 +24,7 @@ now find passé.
 
 ## The Scope of COBOL Today
 
-COBOL is an old, old programming language, surfacing sometime around the cooling of the Earth's crust, as the legacy has been passed down from generation to generation. So to say that there are still COBOL programmers can be surprizing.
+COBOL is an old, old programming language, surfacing sometime around the cooling of the Earth's crust, as the legend has been passed down from generation to generation around the evening campfire. So to say that there are still COBOL programmers can be surprizing.
 
 So how many are there? [Umm](https://www.quora.com/How-many-COBOL-programmers-are-left-in-the-US)...
 
@@ -54,9 +54,21 @@ I say hundreds-of-millions because for the last decade or so Java has been (and 
 3. On both of the Javascript-biased* rankings, [RedMonk](http://redmonk.com/sogrady/2016/02/19/language-rankings-1-16/) and [GitHut](http://githut.info/), it ranks #2.
 4. It ranks #1 on [IEEE Spectrum](http://spectrum.ieee.org/static/interactive-the-top-programming-languages)'s rankings.
 
+There are probably an order of magnitude more Java programmers now than there were COBOL programmers back in the day. And therefore the man-hours being put into code are far greater.
+
+But numbers don't tell the whole story. COBOL's dominance didn't come from being the best programming language of the day but from targeting the average programmer. Rockstar programmers never fell for COBOL, but the vast majority of coders are not rockstars; they're more like Karaoke singers.
+
+The same is true of Java today. It isn't elegant like Ruby, and it doesn't have the same level of functional ease like Elixir. But your average programmer tends to make a mess out of dynamic languages and is certainly not prepared to handle functional paradigms.
+
+So where COBOL was geared toward report generation of fixed record manipulation and report generation, the big tasks of the mainframe era, Java (and importantly, its many frameworks) is geared toward the middle-tier problem of manipulating relational databases on behalf of a GUI (be it web, mobile or a REST endpoint).
+
+As [C2.COM](http://c2.com/cgi/wiki?JavaIsTheNewCobol) puts it:
+
+> Is Java the new Cobol? A good argument can be made that yes, it is. Considering the billions of lines of Cobol code that have been (or still are) in production; that observation should in no way be considered a slur. Java has succeeded in the marketplace (partially) because it is a language of its time; not one behind the times - or ahead of them.
+
 ## \*Notes and Asides
 
-**Javascript-biased Indexes)** I say that RedMonk and GitHut language rankings are biased towards Javascript because they are based on GitHub code repository measurements for two reasons.
+**Javascript-biased Indexes)** I say that RedMonk and GitHut language rankings are biased towards Javascript because they are based on GitHub code repository measurements, making them biased for two reasons.
 
 First, as RedMonk points out, Javascript is used in the HTML of many of other projects where another language is really the dominant focus. So this inflates Javascript project and lines-of-code counts.
 
